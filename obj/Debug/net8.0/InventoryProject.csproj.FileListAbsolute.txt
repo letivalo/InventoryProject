@@ -1,0 +1,14 @@
+C:\Users\Clay\source\repos\InventoryProject\bin\Debug\net8.0\InventoryProject.exe
+C:\Users\Clay\source\repos\InventoryProject\bin\Debug\net8.0\InventoryProject.deps.json
+C:\Users\Clay\source\repos\InventoryProject\bin\Debug\net8.0\InventoryProject.runtimeconfig.json
+C:\Users\Clay\source\repos\InventoryProject\bin\Debug\net8.0\InventoryProject.dll
+C:\Users\Clay\source\repos\InventoryProject\bin\Debug\net8.0\InventoryProject.pdb
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\InventoryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\InventoryProject.AssemblyInfoInputs.cache
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\InventoryProject.AssemblyInfo.cs
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\InventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\InventoryProject.dll
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\refint\InventoryProject.dll
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\InventoryProject.pdb
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\InventoryProject.genruntimeconfig.cache
+C:\Users\Clay\source\repos\InventoryProject\obj\Debug\net8.0\ref\InventoryProject.dll
